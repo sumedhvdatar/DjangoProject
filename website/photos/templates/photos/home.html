@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <div id="content-container" class="container p-none">
+        <div class="lgn-container col-lg-8">
+            <h1>Welcome</h1>
+                    <input id="id_permission" style="display : none" name="username" type="text" class="form-control" value= " {{ permission }}">
+                    <div id="upload" style="display : none">
+                        <input type="file" name="fileToUpload" id="fileToUpload">
+                        <input type="submit" value="Upload Image" name="submit">
+                    </div>
+        </div>
+    </div>
+    <table>
+        <tr>
+            {% for photo in all_photos %}
+            <td>
+                <div>
+                    <img src="{{ photo.photo_url }}" width="240" height="180">
+                </div>
+            </td>
+            {% endfor %}
+        </tr>>
+    </table>
+</head>
+<body>
+
+</body>
+</html>
+
+<script>
+
+    var check = document.getElementById("id_permission");
+    if(check.value == 1){
+        document.getElementById("upload").style.display = "block";
+    }
+    
+</script>

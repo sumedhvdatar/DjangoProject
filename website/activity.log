@@ -1,0 +1,638 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.005) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[u'admin', u'admin', 1]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.004) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.007) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:reached here
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos" LIMIT 21' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos" LIMIT 21' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos" LIMIT 21' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:reached here
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'',); args=(u'',)
+DEBUG:root:please try again
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.003) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:admin
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'admin',); args=(u'admin',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Done
+DEBUG:root:[]
+DEBUG:root:Returning to UI
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
+DEBUG:root:reached here
+DEBUG:root:student
+DEBUG:django.db.backends:(0.002) QUERY = u'SELECT "photos_appusers"."id", "photos_appusers"."username", "photos_appusers"."password", "photos_appusers"."permission" FROM "photos_appusers" WHERE "photos_appusers"."username" = %s' - PARAMS = (u'student',); args=(u'student',)
+DEBUG:root:reachedd the if condition
+DEBUG:root:Invalid username
+DEBUG:root:Returning to UI
+DEBUG:root:reached here
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "photos_photos"."id", "photos_photos"."photo_url" FROM "photos_photos"' - PARAMS = (); args=()
+DEBUG:root:reached here
